@@ -4,7 +4,7 @@
 
 ### [Live Site](https://react-feedback-ui1.netlify.app/)
 
-![Feedback UI](./src/components/assets/screenshot.png?raw=true);
+![Feedback UI](./src/components/assets/screenshot.png?raw=true)
 
 This Feedback UI created using create-react-app. It allows users to add, update and delete feedback. It uses a mock REST api with json-server.
 
